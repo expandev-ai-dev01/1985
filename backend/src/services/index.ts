@@ -7,3 +7,5 @@
  */
 
 export * from './initExample';
+export * from './category';
+export * from './product';
